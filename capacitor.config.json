@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "Alarma de robo",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "io.alarmaderobo.start",
+  "appName": "Alarma de robo",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }

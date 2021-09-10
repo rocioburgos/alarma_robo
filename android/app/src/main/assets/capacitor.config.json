@@ -1,0 +1,6 @@
+{
+	"appId": "io.alarmaderobo.start",
+	"appName": "Alarma de robo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
