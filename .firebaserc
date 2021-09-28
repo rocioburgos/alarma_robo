@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "apps-pps-3e608": {
+      "hosting": {
+        "app": [
+          "apps-pps-3e608"
+        ]
+      }
+    }
+  }
+}
